@@ -3,7 +3,9 @@
 my solutions  to [best of ruby quiz](https://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
 ## Plan
-I'm going to implement the solution to each quiz with ruby.
+
+* I'm going to implement the solution to each quiz with ruby;
+* A Kill A Day.
 
 ## Orgnization
 Each quiz will have its own self-contained sub-directory within this repository including a Quiz(README) to document the problem and related details and  a my_solution to document my solution.
