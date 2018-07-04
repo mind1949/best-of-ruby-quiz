@@ -2,6 +2,9 @@
 
 my solutions  to [best of ruby quiz](https://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
+## Resource
+[Ruby Quiz](http://rubyquiz.com/)
+
 ## Plan
 
 * I'm going to implement the solution to each quiz with ruby;
