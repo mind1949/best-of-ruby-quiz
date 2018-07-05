@@ -3,7 +3,8 @@
 my solutions  to [best of ruby quiz](https://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
 ## Resource
-[Ruby Quiz](http://rubyquiz.com/)
+* [Ruby Quiz](http://rubyquiz.com/)
+* [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
 
 ## Plan
 
