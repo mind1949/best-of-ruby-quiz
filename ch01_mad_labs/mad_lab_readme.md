@@ -1,4 +1,4 @@
-# Madlibs (#28)
+# [Madlibs](http://rubyquiz.com/quiz28.html) (#28)
 
 This week's Ruby Quiz is to write a program that presents the user with Madlibs. The script should ask the user for a series of words, then fill in the proper places in the story using the user's answers.
 
