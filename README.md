@@ -5,6 +5,7 @@ my solutions  to [best of ruby quiz](https://pragprog.com/book/fr_quiz/best-of-r
 ## Resource
 * [Ruby Quiz](http://rubyquiz.com/)
 * [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)
+* [code wars](https://www.codewars.com)
 
 ## Plan
 
